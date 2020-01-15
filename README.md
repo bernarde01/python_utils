@@ -1,2 +1,6 @@
-# python_utils
-A small Python utilities package
+# python-utils
+Python utilities repository on GitHub
+
+Small package with usefull utilities for Python
+
+:coffee:
